@@ -7,7 +7,7 @@ A visual maze generator and solver using Python and Tkinter.
 - **Maze Generation**: Creates random mazes using recursive backtracking
 - **Dual Algorithms**: Compares DFS vs BFS pathfinding
 - **Visual Animation**: Watch algorithms solve in real-time with color-coded paths
-- **Interactive UI**: Control panel for maze configuration
+- **Algorithm Comparison**: Side-by-side timing comparison
 
 ## Colors
 
@@ -18,14 +18,8 @@ A visual maze generator and solver using Python and Tkinter.
 
 ## Usage
 
-Basic comparison:
 ```bash
 python3 main.py
-```
-
-Interactive UI:
-```bash
-python3 main_ui.py
 ```
 
 ## Requirements
